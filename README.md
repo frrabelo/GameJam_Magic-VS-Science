@@ -3,6 +3,7 @@ GameJam_Magic-VS-Science 2019
 
 http://jams.gamejolt.io/dreamhacksummerjam
 
+
 Tema: "Magic-VS-Science"
 ===========================================
 BRAINSTORM:
@@ -88,7 +89,13 @@ Jackie Chan Adventures
 - No Jogo Dota 2, o heroi: Tinker, usa da tecnologia para competir com os poderes magicos de outros herois.
 - https://www.youtube.com/watch?v=gNTokBG0Yz4 
 
+===========================================
 
+http://jams.gamejolt.io/dreamhacksummerjam/games/DOC/414869
+
+===========================================
+Gameplay:
+https://gamejolt.com/games/DOC/414869
 
 
 
